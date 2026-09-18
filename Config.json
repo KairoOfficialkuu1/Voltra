@@ -1,3 +1,4 @@
 {
-  "base_url":"http://server2.felix-private.web.id:3944"
+  "server": "http://server2.felix-private.web.id:3944",
+  "api": "/api"
 }
