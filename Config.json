@@ -7,7 +7,7 @@
     "projectId": "notif-3b442",
     "storageBucket": "notif-3b442.firebasestorage.app"
   },
-  "version": "17.1.0",
+  "version": "1.0.0",
   "build": 1500,
   "apk_url": "https://domainkamu.com/download/app-15.1.0.apk",
   "force": false,
