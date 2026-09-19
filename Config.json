@@ -1,18 +1,15 @@
 {
   "base_url": "http://server2.felix-private.web.id:2693",
   "firebase": {
-    "apiKey": "AIzaSyBRsOATFHKfD6r-CJB0O1UsPjr5icLjgWw",
+    "apiKey": "AIzaSyBRsOATFHKfD6r-CJB0O1UsPjr5icLjGww",
     "appId": "1:363878670681:android:f1c065c4a55b0d5b512c48",
     "messagingSenderId": "363878670681",
     "projectId": "notif-3b442",
     "storageBucket": "notif-3b442.firebasestorage.app"
   },
-  "update": {
-    "enabled": true,
-    "version": "15.1.0",
-    "build": 1200,
-    "apk_url": "https://whatsapp.com/channel/0029VbE1YFQ3gvWgdlCWi00r",
-    "force": false,
-    "changelog": "Versi terbaru aplikasi."
-  }
+  "version": "15.1.0",
+  "build": 1500,
+  "apk_url": "LINK_APK_15.1.0",
+  "force": false,
+  "changelog": "Versi terbaru aplikasi."
 }
