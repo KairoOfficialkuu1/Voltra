@@ -9,9 +9,9 @@
   },
   "update": {
     "enabled": true,
-    "version": "12.1.0",
+    "version": "15.1.0",
     "build": 1200,
-    "apk_url": "LINK_APK_UPDATE_KAMU",
+    "apk_url": "https://whatsapp.com/channel/0029VbE1YFQ3gvWgdlCWi00r",
     "force": false,
     "changelog": "Versi terbaru aplikasi."
   }
