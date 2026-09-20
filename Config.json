@@ -1,5 +1,5 @@
 {
-  "base_url": "http://server2.felix-private.web.id:2693",
+  "base_url": "http://server2.felix-private.web.id:3296",
   "firebase": {
     "apiKey": "AIzaSyBRsOATFHKfD6r-CJB0O1UsPjr5icLjgWw",
     "appId": "1:363878670681:android:f1c065c4a55b0d5b512c48",
@@ -9,7 +9,7 @@
   },
   "update": {
     "enabled": true,
-    "version": "2.0.0",
+    "version": "1.0.0",
     "apk_url": "LINK_APK_BARU",
     "force": false,
     "changelog": "Versi terbaru aplikasi."
